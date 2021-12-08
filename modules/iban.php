@@ -74,7 +74,7 @@ if(strpos($message, "/iban ") === 0){
 <ins>Time:</ins>  <code>$timetaken</code><code>s</code>
 <b>━━━━━━━━━━━━━
 Checked By <a href='tg://user?id=$userId'>$firstname</a></b>
-<b>Bot By: <a href='t.me/ninjanaveen'>ɴɪɴᴊᴀ ɴᴀᴠᴇᴇɴ</a></b>",
+<b>Bot By: <a href='t.me/ArpitaX'>🌚 ARPITA 🌚</a></b>",
                 'parse_mode'=>'html',
                 'disable_web_page_preview'=>'true'
                 
