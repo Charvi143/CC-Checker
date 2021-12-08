@@ -70,7 +70,7 @@ if(strpos($message, "/cmds") === 0 || strpos($message, "!cmds") === 0){
     'parse_mode'=>'html',
     'reply_to_message_id'=> $message_id,
     'reply_markup'=>json_encode(['inline_keyboard'=>[
-    [['text'=>"💳 CC Checker Gates",'callback_data'=>"checkergates"]],[['text'=>"🛠 Other Commands",'callback_data'=>"othercmds"]],
+    [['text'=>"💳 Checker Gates",'callback_data'=>"checkergates"]],[['text'=>"🛠 Other Commands",'callback_data'=>"othercmds"]],
     ],'resize_keyboard'=>true])
     ]);
   }
@@ -84,7 +84,7 @@ if(strpos($message, "/cmds") === 0 || strpos($message, "!cmds") === 0){
     'text'=>"<b>Which commands would you like to check?</b>",
     'parse_mode'=>'html',
     'reply_markup'=>json_encode(['inline_keyboard'=>[
-    [['text'=>"💳 CC Checker Gates",'callback_data'=>"checkergates"]],[['text'=>"🛠 Other Commands",'callback_data'=>"othercmds"]],
+    [['text'=>"💳 Checker Gates",'callback_data'=>"checkergates"]],[['text'=>"🛠 Other Commands",'callback_data'=>"othercmds"]],
     ],'resize_keyboard'=>true])
     ]);
   }
@@ -93,7 +93,7 @@ if(strpos($message, "/cmds") === 0 || strpos($message, "!cmds") === 0){
     bot('editMessageText',[
     'chat_id'=>$callbackchatid,
     'message_id'=>$callbackmessageid,
-    'text'=>"<b>━━CC Checker Gates━━</b>
+    'text'=>"<b>---**CC Checker Gate---**</b>
   
 <b>/ss | !ss - Stripe [Auth]</b>
 <b>/sm | !sm - Stripe [Merchant]</b>
@@ -102,7 +102,7 @@ if(strpos($message, "/cmds") === 0 || strpos($message, "!cmds") === 0){
 <b>/apikey sk_live_xxx - Add SK Key for /schk gate</b>
 <b>/myapikey | !myapikey - View the added SK Key for /schk gate</b>
 
-<b>ϟ Join <a href='t.me/IndianBots'>IndianBots</a></b>",
+<b>ϟ Join <a href='t.me/Karding666'>Channel</a></b>",
     'parse_mode'=>'html',
     'disable_web_page_preview'=>true,
     'reply_markup'=>json_encode(['inline_keyboard'=>[
