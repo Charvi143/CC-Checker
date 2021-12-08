@@ -48,11 +48,14 @@ $messagesec",
 	'reply_to_message_id'=> $message_id,
     'reply_markup'=>json_encode(['inline_keyboard' => [
         [
-          ['text' => "😏OWNER", 'url' => "t.me/ArpitaX"]
+          ['text' => "🌚OWNER", 'url' => "t.me/ArpitaX"]
         ],
         [
-          ['text' => "💎 OUR CHANNEL 💎", 'url' => "t.me/Karding666"]
+          ['text' => "🌝 OUR CHANNEL 🌝", 'url' => "t.me/Karding666"]
         ],
+        [
+          ['text' => "👀 DONATE AWS", 'url' => "t.me/ArpitaX"]
+        ], 
       ], 'resize_keyboard' => true])
         
     ]);
@@ -116,13 +119,15 @@ if(strpos($message, "/cmds") === 0 || strpos($message, "!cmds") === 0){
     bot('editMessageText',[
     'chat_id'=>$callbackchatid,
     'message_id'=>$callbackmessageid,
-    'text'=>"<b>━━Other Commands━━</b>
+    'text'=>"<b>❌❌ Other Commands ❌❌</b>
   
 <b>/me | !me</b> - Your Info
 <b>/stats | !stats</b> - Checker Stats
 <b>/key | !key</b> - SK Key Checker
 <b>/bin | !bin</b> - Bin Lookup
 <b>/iban | !iban</b> - IBAN Checker
+
+`DONATE A RDP HERE` --->  @ArpitaX
   
   <b>ϟ Join <a href='t.me/Karding666'>CHANNEL</a></b>",
     'parse_mode'=>'html',
