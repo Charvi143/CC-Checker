@@ -62,7 +62,7 @@ A Telegram CC Checker Bot with hella lotta features.
 
 ### Hosting on Server [MySQL DB Required]
 
- - Download the Files from [Here](https://github.com/iam-NVN/SDMN_CheckerBot/archive/refs/heads/main.zip)
+ - Download the Files from [Here](https://github.com/ArpitaX/CC-Checker/archive/refs/heads/main.zip)
  - Upload it to your Server and Extract it
  - Edit config/config.php file and set Admin ID, Logs ID, DB Credentials and SK Keys
  - Import checkerbot.sql file into your Database through PHPmyAdmin
@@ -72,16 +72,7 @@ A Telegram CC Checker Bot with hella lotta features.
 **[Click Here to go to Heroku Version](https://github.com/iam-NVN/SDMN_CheckerBot/tree/heroku-version)**
 
 
-## 🎯 Author
-
-- [@iam-NVN](https://www.github.com/octokatherine)
-
-## 💸 Donations 
-If you're feeling generous and want to support this project, you can donate 
-
-<a href="https://www.blockchain.com/btc/address/33Kya1FcwLBUfPwfH6GTkyZswH9RZjPr51">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2WR24fnzSsiHf1TmpIWQn_E3qgJTLBcsK5w&usqp=CAU" alt="Bitcoin" height="25" style="margin-left: 15px;"/>
-</a> - Donate through Bitcoin
+** [CONTACT ME](t.me/ArpitaX)
 
 
   
