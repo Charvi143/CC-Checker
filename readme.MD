@@ -72,7 +72,7 @@ A Telegram CC Checker Bot with hella lotta features.
 **[Click Here to go to Heroku Version](https://github.com/iam-NVN/SDMN_CheckerBot/tree/heroku-version)**
 
 
-** [CONTACT ME](t.me/ArpitaX)**
+** [CONTACT ME](https://t.me/ArpitaX)**
 
 
   
