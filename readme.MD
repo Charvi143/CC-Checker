@@ -1,5 +1,5 @@
 
-# SDMN CC Checker Bot
+# CC Checker Bot
 
 A Telegram CC Checker Bot with hella lotta features.
 
